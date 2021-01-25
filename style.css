@@ -1,0 +1,158 @@
+a {
+  font-style: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+button {
+  margin-left: 0.7%;
+  margin-bottom: 10%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 10px;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-top: 20%;
+  margin-bottom: 10%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1;
+  margin: 0% 0% 3% 0%;
+  color: #6155a6;
+}
+
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+  font-size: 1.8rem;
+  line-height: 1.5;
+  margin: 0% 0% 1% 0%;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #8f8f8f;
+  line-height: 1.2;
+  padding: 1% 15%;
+}
+
+.btn-purple {
+  background-color: #7f78d2;
+  color: #fff;
+  margin: 1%;
+}
+
+.carousel-h1 {
+  padding: 10% 2%;
+}
+
+.center_h2 {
+  text-align: center;
+}
+
+.center_box {
+  text-align: center;
+  margin: 5% 0%;
+}
+
+.hr-divide {
+  text-align: center;
+  margin: 0 30%;
+}
+
+.fa-check-circle, .fa-user, .fa-tachometer-alt {
+  margin: 5%;
+  padding: 1%;
+  color: #7f78d2;
+}
+
+.fa-envelope {
+  padding: 1%;
+  color: #7f78d2;
+}
+
+.fa-check-circle:hover, .fa-user:hover, .fa-tachometer-alt:hover, .fa-envelope:hover {
+  color: #6155a6;
+}
+
+.image-title {
+  height: 48.31rem;
+  width: 38.63rem;
+  margin-left: 15%;
+}
+
+.image-center {
+  height: 30rem;
+  width: 30rem;
+  margin-left: 15%;
+}
+
+.image-ipad {
+  height: 30rem;
+  width: 27rem;
+  margin-left: 15%;
+}
+
+.img-a {
+  text-decoration: none;
+  color: #EAF6F6;
+  margin: 0.5%;
+  padding-bottom: 0;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.reportes {
+  color: #fff;
+  margin: 0;
+}
+
+#title {
+  padding: 1% 10% 0% 10%;
+  background-image: linear-gradient(#481380, #7f78d2);
+  color: #fff;
+  overflow: hidden;
+}
+
+#features {
+  padding: 1% 10% 0% 10%;
+}
+
+#tipos-reportes {
+  padding: 3% 10% 2% 10%;
+  text-align: center;
+  background-color: #7f78d2;
+}
+
+#testimonials {
+  padding: 0% 10% 3% 10%;
+  text-align: center;
+  background-color: #7f78d2;
+  color: #fff;
+}
+
+#cta {
+  padding: 0% 10% 1% 10%;
+  text-align: center;
+}
+
+#footer {
+  padding: 0% 10% 0% 10%;
+  text-align: center;
+  background-color: #7f78d2;
+}
